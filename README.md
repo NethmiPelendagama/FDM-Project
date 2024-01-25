@@ -9,4 +9,5 @@
 Technologies used in the project:
 
 *   Python
-  
+*   Flask
+*   Heroku
